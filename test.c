@@ -6,6 +6,7 @@ int main(){
 	printf("one day");
 	printf("one day");
 	//printf("");
-	
+
+	printf("two day");
 	return 0;
 }
