@@ -8,5 +8,6 @@ int main(){
 	//printf("");
 
 	printf("two day");
+	int sum;
 	return 0;
 }
